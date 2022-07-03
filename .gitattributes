@@ -8,3 +8,4 @@ README.md filter=lfs diff=lfs merge=lfs -text
 06_28_MakeLevel.zip filter=lfs diff=lfs merge=lfs -text
 06_29_Object_Manager&Prototype.zip filter=lfs diff=lfs merge=lfs -text
 06_30_Add_Object_To_Level_Logo.zip filter=lfs diff=lfs merge=lfs -text
+07_01_Renderer_Component.zip filter=lfs diff=lfs merge=lfs -text
