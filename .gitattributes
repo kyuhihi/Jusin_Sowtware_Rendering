@@ -9,3 +9,8 @@ README.md filter=lfs diff=lfs merge=lfs -text
 06_29_Object_Manager&Prototype.zip filter=lfs diff=lfs merge=lfs -text
 06_30_Add_Object_To_Level_Logo.zip filter=lfs diff=lfs merge=lfs -text
 07_01_Renderer_Component.zip filter=lfs diff=lfs merge=lfs -text
+뷰_스페이스_변환.png filter=lfs diff=lfs merge=lfs -text
+투영_행렬.png filter=lfs diff=lfs merge=lfs -text
+07_04[[:space:]]vertax[[:space:]]&[[:space:]]WorldSpace.txt filter=lfs diff=lfs merge=lfs -text
+07_05[[:space:]]World[[:space:]]Space[[:space:]]to[[:space:]]Projection[[:space:]]Space.txt filter=lfs diff=lfs merge=lfs -text
+변환에_따른_크기_변환.png filter=lfs diff=lfs merge=lfs -text
