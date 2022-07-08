@@ -1,12 +1,3 @@
-z나누기전에 투영행열의 x값에 aspect(종횡비값)으로 나눠준다.
-aspect는 WINCX / WINCY 이다. 이때 연산시 정수형이 안나올수있게 FLOAT형으로 변환후 나눠준다.
-
-픽셀들을 만들어줘야하는데 이 과정을 레스터라이즈라고 한다.
-
-투영행렬은 투영스페이스로 가기전 연산을 도와주는 행렬.
-
-transformCord는 xyz1로 만들어서 무조건 위치 벡터에 적용.
-쿠드함수는 w나누기까지 해주기때문에
-쿠드함수를 이미 투영행열을 적용했다면 w나누기를 안해도됨.
-
-transformNormal는 xyz0로 만들어서 무조건 방향 벡터에 적용.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0c78bcc57c6ad6ab18eb1681d8ee6f72b0ced0f5f5ea08c776163205a1ec91f
+size 665

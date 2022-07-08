@@ -14,3 +14,5 @@ README.md filter=lfs diff=lfs merge=lfs -text
 07_04[[:space:]]vertax[[:space:]]&[[:space:]]WorldSpace.txt filter=lfs diff=lfs merge=lfs -text
 07_05[[:space:]]World[[:space:]]Space[[:space:]]to[[:space:]]Projection[[:space:]]Space.txt filter=lfs diff=lfs merge=lfs -text
 변환에_따른_크기_변환.png filter=lfs diff=lfs merge=lfs -text
+07_06_Randering[[:space:]]PipeLine[[:space:]]&[[:space:]]Ratio.txt filter=lfs diff=lfs merge=lfs -text
+07_08_Draw_Rect_by_Vertex&Index.zip filter=lfs diff=lfs merge=lfs -text
